@@ -27,8 +27,8 @@ const App = () => {
       <div>
         My post
         <div>new post</div>
-        <div>Post 1</div>
-        <div>Post 2</div>
+        <div>Post 11</div>
+        <div>Post 21</div>
       </div>
     </div>
     </div>
