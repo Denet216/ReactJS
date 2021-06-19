@@ -2,3 +2,7 @@
   grid-area: n;
   background-color: rgb(42, 0, 196);
 }
+
+.category {
+  margin: 0 auto;
+}
