@@ -13,7 +13,8 @@ const MyPosts = () => {
     <button>Click</button>
       </div>
       <div ClassNane={s.posts}>
-        <Post />
+        <Post message="Купил лего?" />
+        <Post message="Да, Отличная штука"/>
         </div>
       </div>
   );
